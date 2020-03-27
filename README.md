@@ -1,3 +1,6 @@
+Spek: https://docs.google.com/document/d/1q4K14s-o0QdkauQofhhs7hX22KEdiGDxHzk80AzE2h4/edit
+
+
 # OpenMPI - Parallel Dijkstra Algorithm
 Dibuat oleh:
 1. Lukas Kurnia Jonathan/13517006
